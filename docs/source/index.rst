@@ -12,6 +12,8 @@ Welcome to mda_kit_test's documentation!
 
    getting_started
    api
+   another_page
+
 
 
 
